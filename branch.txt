@@ -1,3 +1,22 @@
 I added a branch
 
 This was for the second part of the assignment
+
+added git log
+commit 8a82e695f6e6aab54f8f0169e1f71e47ab18c43b
+Author: brycebutcher <butcherb@student.swosu.edu>
+Date:   Wed Sep 6 12:44:13 2017 -0500
+
+    test
+
+commit 3d71594570ca19d01588b398bea1cf1fb45499fb
+Author: brycebutcher <butcherb@student.swosu.edu>
+Date:   Wed Sep 6 12:39:23 2017 -0500
+
+    branch
+
+commit 710399eb37a796f393782ad8a0f9c2362ba23d20
+Author: brycebutcher <butcherb@student.swosu.edu>
+Date:   Wed Sep 6 12:29:14 2017 -0500
+
+    first commit
